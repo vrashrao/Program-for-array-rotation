@@ -1,7 +1,7 @@
 //C program to rotate an array by 
 // d elements 
 #include <stdio.h> 
-  
+#include <stdlib.h>
 /* Function to left Rotate arr[] of size n by 1*/
 void leftRotatebyOne(int arr[], int n); 
   
